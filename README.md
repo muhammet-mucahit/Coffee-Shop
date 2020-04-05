@@ -1,5 +1,13 @@
 # Coffee Shop Full Stack
 
+## For Manager (With Manager's permissions)
+
+![Video](https://github.com/muhammet-mucahit/Coffee-Shop/blob/master/documents/manager.gif)
+
+## For Barista (With Barista's permissions)
+
+![Video](https://github.com/muhammet-mucahit/Coffee-Shop/blob/master/documents/barista.gif)
+
 ## About the Stack
 
 We started the full stack application for you. It is desiged with some key functional areas:

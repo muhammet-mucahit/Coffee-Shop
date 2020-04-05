@@ -76,3 +76,7 @@ The `--reload` flag will detect file changes and restart the server automaticall
     - Right-clicking the collection folder for barista and manager, navigate to the authorization tab, and including the JWT in the token field (you should have noted these JWTs).
     - Run the collection and correct any errors.
     - Export the collection overwriting the one I've included so that I have your proper JWTs during review!
+
+## Postman Integration Test
+
+![Video](https://github.com/muhammet-mucahit/Coffee-Shop/blob/master/documents/postman-integration-test.gif)
